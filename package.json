@@ -1,0 +1,28 @@
+{
+  "name": "js4-projekt-got-anikoszakalymolnar",
+  "version": "1.0.0",
+  "description": "Feladatodként a Trónok harca karaktereivel, azaz a karakterek adataival kell dolgoznod.   \r Egy JSON-fájl a 3. évad elejéig tartja nyilván az adatokat, szóval nincs spoilerveszély, csak ha eddig kimaradt az életedből a sorozat.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strukturavaltas-03-Frontend-2022/js4-projekt-got-anikoszakalymolnar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strukturavaltas-03-Frontend-2022/js4-projekt-got-anikoszakalymolnar/issues"
+  },
+  "homepage": "https://github.com/Strukturavaltas-03-Frontend-2022/js4-projekt-got-anikoszakalymolnar#readme",
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
